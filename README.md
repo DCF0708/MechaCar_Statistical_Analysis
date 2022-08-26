@@ -4,7 +4,7 @@
 All coding for this repo is done in Rstudio (R) 
 * **
 ## **Use Case**:
-*"Autos-R-Us, an automotive manufacturer has produced its newest prototype. The "MechaCar" is suffering from production troubles that are blocking the manufacturing team’s progress. Autos-R-Us’ upper management has called for the review of production data to gather insights that may help the manufacturing team."*
+*"Autos-R-Us is an automotive manufacturer that has produced its newest prototype, the "MechaCar". The MechaCar is suffering from production troubles that are blocking the manufacturing team’s progress. Autos-R-Us’ upper management has called for the review of production data to gather insights that may help the manufacturing team."*
 </br> 
 
 ## **Linear Regression to Predict MPG**

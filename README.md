@@ -99,11 +99,11 @@ After the identification of issues limiting the manufacturing team's progress (a
 2.)  Run t-tests to determine the statistical significance of:
 
     - Dataset 1:
+        - Any correlative relationships between number of features and dealer (end user) pricing.
         - Which features (variables) tend to result in an increase in sale price historically. 
-        - Do features tend to  on number of units sold.
-        - Which features (or combinations) tend to have a statistically significant impact on sale price.
+        - Which features/combinations of features exist on the best selling models around the target price of the MechaCar.
     - Dataset 2:
         - Which specification features (variables) tend to have a statistically significant impact on sale price. 
-        - Which specifications (or combination) are statistical predictors of sales data.
+        - Which specifications (or combination) are statistical predictors of sales data (if any).
         - Which features tend to have a statistically significant impact on sale pricing.
 3.) Use the statistically significant relationships found in step two to draw comparisons between the MechaCar and its competition. 
